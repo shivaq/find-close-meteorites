@@ -48,4 +48,4 @@ if __name__ == '__main__':
     meteor_data.sort(key=get_dist)
 
     # ソートされた JSON リストの TOP 10 を出力
-    print(   meteor_data[0:10]   )
+    print(meteor_data[0:10])
